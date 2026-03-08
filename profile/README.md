@@ -2,7 +2,7 @@
 
 Independent security research group focused on open-source vulnerability discovery and responsible disclosure.
 
----
+
 
 ## Introduction
 
@@ -10,7 +10,6 @@ RedPoc is an independent security research team dedicated to identifying and ana
 
 Our goal is to contribute to the security community by conducting vulnerability research, developing proof-of-concept exploits, and responsibly disclosing security issues.
 
----
 
 ## Research Focus
 
@@ -19,7 +18,7 @@ Our goal is to contribute to the security community by conducting vulnerability 
 - Offensive security techniques
 - Security analysis and exploitation
 
----
+
 
 ## Research Areas
 
@@ -29,7 +28,7 @@ Our goal is to contribute to the security community by conducting vulnerability 
 - Reverse Engineering  
 - Exploit Development  
 
----
+
 
 ## Responsible Disclosure
 
